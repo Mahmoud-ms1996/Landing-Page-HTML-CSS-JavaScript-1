@@ -34,7 +34,6 @@ body{
     z-index: 1000;
     min-height: 100vh;
     transition: var(--main-transition);
-    border: 1px solid rgb(225, 225, 225);
 }
 .settings-box.open{
     left: 0;
