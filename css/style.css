@@ -53,9 +53,6 @@ body{
     width: 30px;
     padding: 8px 0;
     border: none;
-    border-top: 1px solid rgb(225, 225, 225);
-    border-right: 1px solid rgb(225, 225, 225);
-    border-bottom: 1px solid rgb(225, 225, 225);
 }
 .settings-box .option-box{
     padding: 10px;
