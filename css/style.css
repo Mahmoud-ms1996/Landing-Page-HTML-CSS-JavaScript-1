@@ -968,14 +968,14 @@ body{
 .footer{
     background-color: #333;
     color: #EEE;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     font-weight: 600;
-    font-size: 17px;
+    font-size: 16px;
 }
 .footer span{
     font-weight: bold;
-    font-size: 19px;
+    font-size: 17px;
     color: var(--main-color);
     transition: var(--main-transition);
 }
