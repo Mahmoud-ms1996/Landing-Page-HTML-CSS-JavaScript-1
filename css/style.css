@@ -971,11 +971,11 @@ body{
     padding: 20px;
     text-align: center;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 17px;
 }
 .footer span{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 19px;
     color: var(--main-color);
     transition: var(--main-transition);
 }
